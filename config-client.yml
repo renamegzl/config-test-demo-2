@@ -1,3 +1,11 @@
 info:
   profile: default
-test: aaa
+  from: git
+  test: trace-new！！！
+  
+test: 'aaa'
+
+from: this is from 
+
+#server:
+#  port: 2010
